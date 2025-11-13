@@ -42,29 +42,29 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">$${\textcolor{#FFE38F}{\text{Internet}}}$$</td>
+      <td rowspan="3">$${\textcolor{#FFE38F}{\text{Application}}}$$</td>
+      <td>카드게임</td>
+      <td>🂧 <a href="2024/07~2024/08">원신 카드게임</a></td>
+      <td>Unity, C#으로 개발한 TCG</td>
+      <td>2024/07/21~2024/08/30</td>
+    </tr>
+    <tr>
       <td>자바 어플리케이션</td>
       <td>♟️<a href="https://github.com/qaoechi/lectureRoom">ChesStudY</a></td>
-      <td>체스 노트</td>
+      <td>POJO 체스 노트</td>
       <td>2024/10~</td>
     </tr>
     <tr>
-      <td>spring boot CRUD웹</td>
+      <td>spring boot CRUD web</td>
       <td>🌌<a href="https://github.com/qaoechi/lectureRoom">점자리</a></td>
-      <td>점자리(동아리) 홈페이지</td>
+      <td>spring boot, naver map API를 활용한 점자리(동아리) 홈페이지</td>
       <td>2025/07/27~2025/11/25</td>
-    </tr>
-    <tr>
-      <td>카드게임</td>
-      <td>🂧 <a href="2024/07~2024/08">카드게임</a></td>
-      <td>원신</td>
-      <td>2024/10~</td>
     </tr>
     <tr>
       <td>$${\textcolor{#CFEAB2}{\text{Transport}}}$$</td>
       <td>소켓 프로그래밍</td>
-      <td><a href="https://github.com/qaoechi/lectureRoom">소켓</a></td>
-      <td>25-2 시스템프로그래밍 강의 내용 정리.</td>
+      <td>📢<a href="https://github.com/qaoechi/lectureRoom">system programming</a></td>
+      <td>ubuntu. 25-2 시스템프로그래밍 강의 내용 정리</td>
       <td>2025/09~2025/12</td>
     </tr>
     <tr>
@@ -77,8 +77,8 @@
     <tr>
       <td rowspan="2">$${\textcolor{#B2C8E2}{\text{Network Access}}}$$</td>
       <td>점자 LED</td>
-      <td>💡<a href="https://github.com/qaoechi/jumjaLED">점자 LED</a></td>
-      <td>아스키 코드 비트를 받아 점역하여 LED를 밝힘</td>
+      <td>💡<a href="https://github.com/qaoechi/jumjaLED">braille LED</a></td>
+      <td>아스키 코드 비트를 받아 점역하여 LED 제어</td>
       <td>2025/01</td>
     </tr>
     <tr>
