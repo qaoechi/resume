@@ -1,10 +1,17 @@
 # 박준성
 > _세상을 밝히는 과학, 컴퓨터가 되어 세상을 밝히다._
-> 
+## Contact
+단국대학교 컴퓨터공학과 재학 중인 박준성입니다.
++ Email: junseong10683@gmail.com
++ Github: https://github.com/qaoechi
+
+[![Instagram](https://img.shields.io/badge/-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junseong2040/) (클릭하여 이동)
+
 ## About Me
 ---
 ####
 ######
+
 ## Skill
 ---
 ### Language
@@ -36,7 +43,7 @@
     <tr>
       <td rowspan="3">$${\textcolor{#FFE38F}{\text{Application}}}$$</td>
       <td>카드게임</td>
-      <td>🂧 <a href="https://github.com/qaoechi/genshinCardGame">원신 카드게임</a></td>
+      <td> 🂧 <a href="https://github.com/qaoechi/genshinCardGame">원신 카드게임</a></td>
       <td>Unity, C#으로 개발한 TCG</td>
       <td>2024/07/21~2024/08/30</td>
     </tr>
