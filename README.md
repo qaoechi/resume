@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <td>spring boot CRUD web</td>
-      <td>🌌<a href="https://github.com/qaoechi/lectureRoom">점자리</a></td>
+      <td>🌌<a href="https://github.com/qaoechi/zobiac">점자리</a></td>
       <td>spring boot, naver map API를 활용한 점자리(동아리) 홈페이지</td>
       <td>2025/07/27~2025/11/25</td>
     </tr>
