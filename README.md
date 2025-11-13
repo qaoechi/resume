@@ -36,13 +36,13 @@
     <tr>
       <td rowspan="3">$${\textcolor{#FFE38F}{\text{Application}}}$$</td>
       <td>카드게임</td>
-      <td>🂧 <a href="2024/07~2024/08">원신 카드게임</a></td>
+      <td>🂧 <a href="https://github.com/qaoechi/genshinCardGame">원신 카드게임</a></td>
       <td>Unity, C#으로 개발한 TCG</td>
       <td>2024/07/21~2024/08/30</td>
     </tr>
     <tr>
       <td>자바 어플리케이션</td>
-      <td>♟️<a href="https://github.com/qaoechi/lectureRoom">ChesStudY</a></td>
+      <td>♟️<a href="https://github.com/qaoechi/ChesStudY">ChesStudY</a></td>
       <td>POJO 체스 노트</td>
       <td>2024/10~</td>
     </tr>
@@ -55,7 +55,7 @@
     <tr>
       <td>$${\textcolor{#CFEAB2}{\text{Transport}}}$$</td>
       <td>소켓 프로그래밍</td>
-      <td>📢<a href="https://github.com/qaoechi/lectureRoom">system programming</a></td>
+      <td>📢<a href="https://github.com/qaoechi/system-programming">system programming</a></td>
       <td>ubuntu. 25-2 시스템프로그래밍 강의 내용 정리</td>
       <td>2025/09~2025/12</td>
     </tr>
