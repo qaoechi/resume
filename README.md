@@ -29,12 +29,12 @@
 ---
 ###### [체스노트(ChesStudY)](https://github.com/qaoechi/chess), [점자리 웹](https://github.com/qaoechi/lectureRoom),  [카드게임](https://github.com/qaoechi/genshinCardGame)
 ### Application layer
-###### [시스템프로그래밍(소켓)]()
+###### [시스템프로그래밍(소켓)](https://github.com/qaoechi/system-programming)
 ### Transport layer
 ###### -
 ### Network layer
 ###### -
 ### Data link layer
-###### [점자 LED]()
+###### [점자 LED](https://github.com/qaoechi/jumjaLED)
 ### Pysical layer
-###### [그 3 level 작아지는 필터 뭐였지지]()
+###### [3rd order filter](https://github.com/qaoechi/3rd-order-filter)
