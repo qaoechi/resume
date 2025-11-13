@@ -27,14 +27,16 @@
 ## Project
 ##### TCP/IP 5계층에 따른 프로젝트
 ---
-###### [체스노트(ChesStudY)](https://github.com/qaoechi/chess), [점자리 웹](https://github.com/qaoechi/lectureRoom),  [카드게임](https://github.com/qaoechi/genshinCardGame)
+###### [자바 어플리케이션(체스 노트)](https://github.com/qaoechi/ChesStudY) (2024/10~)
+###### [spring boot CRUD웹(점자리 홈페이지)](https://github.com/qaoechi/lectureRoom) (2025/07/27~2025/11/25)
+###### [카드게임](https://github.com/qaoechi/genshinCardGame) (2024/07~2024/08)
 ### Application layer
-###### [시스템프로그래밍(소켓)](https://github.com/qaoechi/system-programming)
+###### [소켓 프로그래밍](https://github.com/qaoechi/system-programming) (2025/09~2025/12)
 ### Transport layer
 ###### -
 ### Network layer
 ###### -
 ### Data link layer
-###### [점자 LED](https://github.com/qaoechi/jumjaLED)
+###### [점자 LED](https://github.com/qaoechi/jumjaLED) (2025/01)
 ### Pysical layer
-###### [3rd order filter](https://github.com/qaoechi/3rd-order-filter)
+###### [3rd order filter](https://github.com/qaoechi/3rd-order-filter) (2024/05)
