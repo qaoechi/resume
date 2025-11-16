@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=capsule%20render&fontSize=90)
+
 # 박준성
 > _세상을 밝히는 과학, 컴퓨터가 되어 세상을 밝히다._
 ## Contact
@@ -19,6 +21,8 @@
 ###### 컴퓨터를 통해 정보 확산의 혁신을 실현하고 지식과 기술을 다른 사람에게 전달하는 역할을 하고자 합니다.
 ###### 동아리에서 1년간 신입 부원 점자 교육을 맡아오며 지식의 공유에 숭고한 가치를 느꼈습니다.
 <br>
+
+<div style="background-color: #ffe38f; width:100px; height:50px; color">asd</div>
 
 ## Skill
 ---
